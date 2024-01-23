@@ -1,3 +1,8 @@
+
+
+![Screenshot 2024-01-23 153003](https://github.com/toludedapo/MySQL-PowerBI-HR-Analytics/assets/54279426/a468b0c4-d80b-45eb-af2d-5e2284cccef8)
+
+
 # MySQL-PowerBI-HR-Analytics
 Explore employee insights with this repository containing MySQL scripts for data querying and Power BI dashboards for intuitive data visualizations
 
